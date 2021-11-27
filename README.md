@@ -7,4 +7,4 @@
 3. Run `npm install` to get all dependencies required
 4. Create a new `.env` file to insert your credentials. In the file, have the fields USER (user_email/token) and API_KEY (Zendesk api key)
 5. Run `npm test` to run the test suite
-6. Run `npm start` to start the project, and the terminal wil print out the localhost link to the served project
+6. Run `npm start` to start the project, and the terminal will print out the localhost link to the served project. Copy link to a web browser
